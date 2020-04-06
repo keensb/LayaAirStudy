@@ -1,0 +1,8 @@
+{
+  "code": "import AniTest from \"./components/views/AniTest\";\r\nimport TestEvent1 from \"./components/views/TestEvent1\";\r\nimport TestEvent2 from \"./components/views/TestEvent2\";\r\nexport default class GameConfig {\r\n    constructor() {\r\n    }\r\n    static init() {\r\n        var reg = Laya.ClassUtils.regClass;\r\n        reg(\"components/views/AniTest.ts\", AniTest);\r\n        reg(\"components/views/TestEvent1.ts\", TestEvent1);\r\n        reg(\"components/views/TestEvent2.ts\", TestEvent2);\r\n    }\r\n}\r\nGameConfig.width = 1200;\r\nGameConfig.height = 675;\r\nGameConfig.scaleMode = \"fixedwidth\";\r\nGameConfig.screenMode = \"none\";\r\nGameConfig.alignV = \"middle\";\r\nGameConfig.alignH = \"center\";\r\nGameConfig.startScene = \"LoadingScene.scene\";\r\nGameConfig.sceneRoot = \"\";\r\nGameConfig.debug = false;\r\nGameConfig.stat = false;\r\nGameConfig.physicsDebug = false;\r\nGameConfig.exportSceneToJson = true;\r\nGameConfig.init();\r\n",
+  "references": [
+    "G:/laya/test1/src/components/views/AniTest.ts",
+    "G:/laya/test1/src/components/views/TestEvent1.ts",
+    "G:/laya/test1/src/components/views/TestEvent2.ts"
+  ]
+}

@@ -1,0 +1,1130 @@
+{
+    "frames": {
+        "Mai0001.png": {
+            "frame": {
+                "h": 226,
+                "idx": 0,
+                "w": 102,
+                "x": 1554,
+                "y": 1173
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 101,
+                "y": 58
+            }
+        },
+        "Mai0002.png": {
+            "frame": {
+                "h": 226,
+                "idx": 0,
+                "w": 102,
+                "x": 1008,
+                "y": 1172
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 101,
+                "y": 58
+            }
+        },
+        "Mai0003.png": {
+            "frame": {
+                "h": 226,
+                "idx": 0,
+                "w": 102,
+                "x": 1554,
+                "y": 946
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 101,
+                "y": 58
+            }
+        },
+        "Mai0004.png": {
+            "frame": {
+                "h": 251,
+                "idx": 0,
+                "w": 116,
+                "x": 1437,
+                "y": 946
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 98,
+                "y": 33
+            }
+        },
+        "Mai0005.png": {
+            "frame": {
+                "h": 251,
+                "idx": 0,
+                "w": 116,
+                "x": 1671,
+                "y": 930
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 98,
+                "y": 33
+            }
+        },
+        "Mai0006.png": {
+            "frame": {
+                "h": 251,
+                "idx": 0,
+                "w": 116,
+                "x": 1671,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 98,
+                "y": 33
+            }
+        },
+        "Mai0007.png": {
+            "frame": {
+                "h": 265,
+                "idx": 0,
+                "w": 124,
+                "x": 1312,
+                "y": 946
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 95,
+                "y": 19
+            }
+        },
+        "Mai0008.png": {
+            "frame": {
+                "h": 265,
+                "idx": 0,
+                "w": 124,
+                "x": 1187,
+                "y": 944
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 95,
+                "y": 19
+            }
+        },
+        "Mai0009.png": {
+            "frame": {
+                "h": 265,
+                "idx": 0,
+                "w": 124,
+                "x": 1188,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 95,
+                "y": 19
+            }
+        },
+        "Mai0010.png": {
+            "frame": {
+                "h": 281,
+                "idx": 0,
+                "w": 162,
+                "x": 845,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 89,
+                "y": 3
+            }
+        },
+        "Mai0011.png": {
+            "frame": {
+                "h": 281,
+                "idx": 0,
+                "w": 162,
+                "x": 682,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 89,
+                "y": 3
+            }
+        },
+        "Mai0012.png": {
+            "frame": {
+                "h": 281,
+                "idx": 0,
+                "w": 162,
+                "x": 519,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 89,
+                "y": 3
+            }
+        },
+        "Mai0013.png": {
+            "frame": {
+                "h": 281,
+                "idx": 0,
+                "w": 172,
+                "x": 346,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 79,
+                "y": 3
+            }
+        },
+        "Mai0014.png": {
+            "frame": {
+                "h": 281,
+                "idx": 0,
+                "w": 172,
+                "x": 173,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 79,
+                "y": 3
+            }
+        },
+        "Mai0015.png": {
+            "frame": {
+                "h": 281,
+                "idx": 0,
+                "w": 172,
+                "x": 0,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 79,
+                "y": 3
+            }
+        },
+        "Mai0016.png": {
+            "frame": {
+                "h": 267,
+                "idx": 0,
+                "w": 178,
+                "x": 1492,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 58,
+                "y": 17
+            }
+        },
+        "Mai0017.png": {
+            "frame": {
+                "h": 267,
+                "idx": 0,
+                "w": 178,
+                "x": 1313,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 58,
+                "y": 17
+            }
+        },
+        "Mai0018.png": {
+            "frame": {
+                "h": 267,
+                "idx": 0,
+                "w": 178,
+                "x": 1008,
+                "y": 904
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 58,
+                "y": 17
+            }
+        },
+        "Mai0019.png": {
+            "frame": {
+                "h": 227,
+                "idx": 0,
+                "w": 199,
+                "x": 0,
+                "y": 1186
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 57
+            }
+        },
+        "Mai0020.png": {
+            "frame": {
+                "h": 227,
+                "idx": 0,
+                "w": 199,
+                "x": 200,
+                "y": 1186
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 57
+            }
+        },
+        "Mai0021.png": {
+            "frame": {
+                "h": 227,
+                "idx": 0,
+                "w": 199,
+                "x": 400,
+                "y": 1186
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 15,
+                "y": 57
+            }
+        },
+        "Mai0022.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 194,
+                "x": 600,
+                "y": 1186
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 59
+            }
+        },
+        "Mai0023.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 194,
+                "x": 795,
+                "y": 1186
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 59
+            }
+        },
+        "Mai0024.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 194,
+                "x": 1111,
+                "y": 1210
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 8,
+                "y": 59
+            }
+        },
+        "Mai0025.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 192,
+                "x": 1306,
+                "y": 1212
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0026.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 192,
+                "x": 1499,
+                "y": 1400
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0027.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 192,
+                "x": 600,
+                "y": 1412
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0028.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 194,
+                "x": 793,
+                "y": 1412
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0029.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 194,
+                "x": 0,
+                "y": 1414
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0030.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 194,
+                "x": 195,
+                "y": 1414
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0031.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 196,
+                "x": 390,
+                "y": 1414
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0032.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 196,
+                "x": 988,
+                "y": 1436
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0033.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 196,
+                "x": 1185,
+                "y": 1438
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0034.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 198,
+                "x": 1586,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0035.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 198,
+                "x": 1387,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0036.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 198,
+                "x": 1188,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0037.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 990,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0038.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 792,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0039.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 594,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0040.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 396,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0041.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 198,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0042.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 0,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0043.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 1584,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0044.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 1386,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0045.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 1188,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0046.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 990,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0047.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 792,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0048.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 594,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0049.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 396,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0050.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 198,
+                "y": 0
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0051.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 0,
+                "y": 226
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0052.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 0,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0053.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 198,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0054.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 396,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0055.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 594,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0056.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 792,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0057.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 990,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0058.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 1188,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0059.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 1386,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0060.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 1584,
+                "y": 452
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0061.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 0,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0062.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 198,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0063.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 396,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0064.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 594,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0065.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 792,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        },
+        "Mai0066.png": {
+            "frame": {
+                "h": 225,
+                "idx": 0,
+                "w": 197,
+                "x": 990,
+                "y": 678
+            },
+            "sourceSize": {
+                "h": 300,
+                "w": 269
+            },
+            "spriteSourceSize": {
+                "x": 6,
+                "y": 59
+            }
+        }
+    },
+    "meta": {
+        "image": "Mai.png",
+        "prefix": "Mai/"
+    }
+}

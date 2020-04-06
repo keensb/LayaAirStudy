@@ -1,0 +1,4 @@
+{
+  "code": "export default class AniTest extends Laya.Script {\r\n    constructor() {\r\n        super();\r\n        this.roleAni = new Laya.Animation();\r\n        this.roleAni.loadAtlas(\"res/AniMai/Mai.atlas\", Laya.Handler.create(this, this.loadedRes));\r\n    }\r\n    loadedRes() {\r\n        this.owner.addChild(this.roleAni);\r\n        this.roleAni.gotoAndStop(1);\r\n        trace(\"ttttttttt\", this.roleAni.index);\r\n        this.roleAni.interval = 16;\r\n        this.roleAni.play();\r\n        this.roleAni.addLabel(\"xxxx\", 10);\r\n        this.roleAni.on(\"complete\", this, () => { trace(\"complete\"); });\r\n        this.roleAni.on(\"label\", this, (msg) => { trace(this.roleAni.index, msg); });\r\n    }\r\n}\r\n",
+  "references": []
+}

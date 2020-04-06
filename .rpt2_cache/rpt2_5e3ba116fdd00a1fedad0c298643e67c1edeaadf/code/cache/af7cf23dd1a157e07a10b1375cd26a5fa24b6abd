@@ -1,0 +1,4 @@
+{
+  "code": "export default class TestImage extends Laya.Script {\r\n    onStart() {\r\n        trace(this.myImg.x);\r\n        this.owner.once(\"aaaaaa\", this, () => { trace(\"1111111\"); });\r\n    }\r\n    onUpdate() {\r\n        this.owner.event(\"aaaaaa\");\r\n    }\r\n    go() {\r\n        trace(\"this is go\");\r\n    }\r\n}\r\n",
+  "references": []
+}

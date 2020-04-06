@@ -1,0 +1,8 @@
+<res>
+   <item name="res/AniMai/Mai.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="comp/progress.png" type="ProgressBar" compress="0" pack="0" quality="80" props="sizeGrid=11,20,13,20" picType="0" scale="0"/>
+   <item name="res/loading/loadingBar.png" type="Sprite" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/loading/loadingBorder.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/loading/title.png" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/loading/loadingBG.jpg" type="Sprite" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>

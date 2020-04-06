@@ -1,0 +1,4 @@
+{
+  "code": "export default class TestEvent extends Laya.Script {\r\n    onStart() {\r\n        trace(this.myImg.x);\r\n        this.owner.once(\"aaaaaa\", this, this.evtFunc);\r\n        this.owner.event(\"aaaaaa\", \"oouu\");\r\n        this.owner.off(\"bbbbb\", this, this.evtFunc);\r\n        this.owner.once(\"ccc\", this, () => { trace(\"ccc1\"); });\r\n        this.owner.once(\"ccc\", this, () => { trace(\"ccc2\"); });\r\n        this.owner.on(\"ccc\", this, () => { trace(\"ccc3\"); });\r\n        this.owner.on(\"ddd\", this, () => { trace(\"ddd1\"); });\r\n        this.owner.on(\"eee\", this, () => { trace(\"eee1\"); });\r\n        this.owner.offAll(\"ccc\");\r\n        this.owner.event(\"ccc\");\r\n        this.owner.event(\"ddd\");\r\n        this.owner.event(\"eee\");\r\n        this.owner.offAllCaller(this);\r\n    }\r\n    onUpdate() {\r\n    }\r\n    evtFunc(evt) {\r\n        trace(evt);\r\n    }\r\n}\r\n",
+  "references": []
+}

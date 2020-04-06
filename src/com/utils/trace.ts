@@ -1,0 +1,1 @@
+var trace: (...args)=>void = console.log;

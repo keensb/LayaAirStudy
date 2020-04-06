@@ -1,0 +1,10 @@
+[
+  {
+    "flatMessage": "Cannot find namespace 'console'.",
+    "formatted": "\u001b[96mG:/laya/test1/src/Main.ts\u001b[0m:\u001b[93m3\u001b[0m:\u001b[93m16\u001b[0m - \u001b[91merror\u001b[0m\u001b[90m TS2503: \u001b[0mCannot find namespace 'console'.\r\n\r\n\u001b[7m3\u001b[0m import trace = console.log;\r\n\u001b[7m \u001b[0m \u001b[91m               ~~~~~~~\u001b[0m\r\n",
+    "category": 1,
+    "code": 2503,
+    "type": "semantic",
+    "fileLine": "G:/laya/test1/src/Main.ts(3,16)"
+  }
+]

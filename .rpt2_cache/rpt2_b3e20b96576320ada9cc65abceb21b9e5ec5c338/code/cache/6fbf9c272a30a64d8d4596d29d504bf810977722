@@ -1,0 +1,4 @@
+{
+  "code": "export default class TestImage extends Laya.Script {\r\n    onStart() {\r\n        trace(\"ooxxx\", 1000);\r\n    }\r\n}\r\n",
+  "references": []
+}
